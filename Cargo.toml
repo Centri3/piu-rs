@@ -1,0 +1,11 @@
+[package]
+name = "piu-rs"
+version = "0.0.19"
+edition = "2021"
+
+[dependencies]
+libm = "*"
+mersenne_twister = "*"
+rand = "0.4.6"
+rayon = "*"
+sha2 = "*"
